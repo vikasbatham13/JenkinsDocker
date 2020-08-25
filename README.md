@@ -15,3 +15,5 @@ Above command will build the image, to run this image
 
 >docker run -d --name jenkins-docker -p 8080:8080 jenkins  
 (maping post 8080 of docker jenkins to outside world (your machine) port 8080)
+
+login to http://localhost:8080 with user password admin/admin
