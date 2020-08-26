@@ -26,3 +26,57 @@ For running it in docker but save data on locally use below command
 
 I have created a script file , create a directory and replace the directory name to your local in start.sh
 
+# Some Extra plugin that can be added in the plugin file
+
+ace-editor
+ant
+antisamy-markup-formatter
+branch-api
+cloudbees-folder
+credentials
+cvs
+docker
+durable-task
+external-monitor-job
+git-client
+git-server
+git
+github-api
+github-branch-source
+github
+javadoc
+jquery-detached
+junit
+ldap
+mailer
+matrix-auth
+matrix-project
+maven-plugin
+metrics
+pam-auth
+plain-credentials
+scm-api
+script-security
+ssh-credentials
+ssh-slaves
+subversion
+translation
+variant
+windows-slaves
+workflow-aggregator
+workflow-api
+workflow-basic-steps
+workflow-cps-global-lib
+workflow-cps
+workflow-durable-task-step
+workflow-job
+workflow-multibranch
+workflow-scm-step
+workflow-step-api
+workflow-support
+favorite
+token-macro
+pipeline-stage-step
+blueocean
+blueocean-autofavorite
+gitlab-plugin
