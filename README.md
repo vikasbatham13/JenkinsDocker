@@ -9,6 +9,7 @@ Jenkins Docker configuration
 You can just build Docker image from the provided Dockerfile and run Docker container locally
 
 >cd files
+
 >docker build -t jenkins .
 
 Above command will build the image, to run this image
