@@ -29,17 +29,29 @@ I have created a script file , create a directory and replace the directory name
 # Some Extra plugin that can be added in the plugin file
 
 ace-editor
+
 ant
+
 antisamy-markup-formatter
+
 branch-api
+
 cloudbees-folder
+
 credentials
+
 cvs
+
 docker
+
 durable-task
+
 external-monitor-job
+
 git-client
+
 git-server
+
 git
 github-api
 github-branch-source
